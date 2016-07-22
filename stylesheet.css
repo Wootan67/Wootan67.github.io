@@ -1,0 +1,28 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html, body, .wrap, #map-canvas {
+  height: 100%;
+}
+
+#content{
+  line-height: 50%;
+}
+
+h1 {
+  padding-bottom: 10px;
+  color: #FC5956;
+  border-bottom: 1px solid #FC5956;
+}
+
+a {
+  color: #FC5956;
+}
+
+#contact {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FC5956;
+}
